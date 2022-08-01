@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SettingsPage() {
+export function SettingsPage() {
   return (
     <div>Settings Page DONE</div>
   )
